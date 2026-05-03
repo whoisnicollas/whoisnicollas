@@ -1,9 +1,9 @@
-### Hi there 👋, I'm Nic!
-I'm a high school student who lives in the Brazil. I'm learning how to code. I love making and designing webpages with HTML and CSS (and possible JavaScript in the future).
+### Hey! I'm Nic 👋
 
-- 🔭 I’m currently working on creating webpages and learning how to program. 
-- 🌱 I’m currently learning JS/TS 
-- 😄 Pronouns: he/him
+i'm a psychology student from Brazil, and i enjoy designing webpages.
+
+psychology student → aspiring developer
+
   
  ![image](https://github.com/whoisnicollas/whoisnicollas/assets/133256367/77113d7e-cad9-4604-9098-504acf57af70)
  ![image](https://github.com/whoisnicollas/whoisnicollas/assets/133256367/5b442d24-650c-4601-8a51-e377dbb5d228)
